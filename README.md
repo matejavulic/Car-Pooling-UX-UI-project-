@@ -1,4 +1,4 @@
-# Car-Pooling-UX-UI-project
+# Car Pooling UX UI interface prototype
 
 ## Disclaimer
 This project and all assoiated media (including fictional company names) have been used for illustration purpose only.
