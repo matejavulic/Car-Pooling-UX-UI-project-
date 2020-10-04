@@ -6,7 +6,7 @@ This project and all assoiated media (including fictional company names) have be
 ## Description
 Carpooling UI live prototype design. User interface design was conducted according to the usability guidelines given in 10 Usability Heuristics for User Interface Design by Jakob Nielsen. After initial interface design, usabillty user tests were conducted as far as post-test validation.  
 
-## UI Interface Demo
+## UI Demo
 Click [here](https://vimeo.com/355581181) to see how the inteface looks like.
 
 ## Contact
